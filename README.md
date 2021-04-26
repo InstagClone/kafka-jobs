@@ -8,3 +8,4 @@
 5. run `yarn produce` to produce and `yarn consume` to consume
    - [Alternative] run `npm run produce` to produce and `npm run consume` to consume
 6. If you made any changes to `/src/`, make sure you run `yarn build` to re-build the file
+   - After re-build, you can go back to step 5
